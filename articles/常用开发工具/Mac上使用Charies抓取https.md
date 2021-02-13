@@ -2,7 +2,7 @@ charles自己安装哈~，我假装你已经安装了，那就是设置问题了
 
 1. 安装根证书：help - ssl proxying - install charles root certificate
 
-   <img src="/images/常用开发工具/1315265-20180515092817966-623547069.png">
+   <img src="images/常用开发工具/1315265-20180515092817966-623547069.png">
 
 2. 这时候会弹出一个根证书界面，如果没有弹出，则可以去chrome，高级设置里面找，
 
